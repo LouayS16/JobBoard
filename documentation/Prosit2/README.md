@@ -78,8 +78,13 @@ Les captures utilisées dans le PDF sont également disponibles dans le dossier 
 4. `captures/capture_04.png` – Métriques HTTP de Candidat.
 5. `captures/capture_05.png` – Métriques HTTP filtrées par status 200.
 
+## Membres de l'équipe
+- **Louay Saadaoui**
+- **Adel Haj Salem**
+- **Elyes Dalhoumi**
+- **Mohamed Ala Eddin Hedfi**
+
 ## À compléter avant le dépôt final
-- Ajouter les noms et prénoms de tous les membres de l'équipe.
 - Vérifier que les captures complémentaires demandées par l'enseignant (Actuator `/health`, `/info`, `/metrics`, Meeting et Notification) sont ajoutées si elles sont exigées individuellement.
 - Vérifier le dépôt Git, puis effectuer le commit et le push final.
 

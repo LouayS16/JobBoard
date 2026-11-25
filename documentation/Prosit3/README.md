@@ -3,6 +3,8 @@
 > **Module :** Applications Web Distribuées  
 > **Année Universitaire :** 2025-2026 / 2026-2027  
 > **Institution :** ESPRIT  
+> **Membres de l'équipe :** Louay Saadaoui - Adel Haj Salem - Elyes Dalhoumi - Mohamed Ala Eddin Hedfi  
+> **Dépôt GitHub :** [https://github.com/LouayS16/JobBoard](https://github.com/LouayS16/JobBoard)  
 > **Sujet :** Conception, configuration et routage dynamique avec équilibrage de charge (Load Balancing) via Spring Cloud Gateway et Netflix Eureka  
 > **Rendu exigé :** Réponses détaillées aux questions de la **Partie 3 (Questions 2.b et 3)**
 

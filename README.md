@@ -417,6 +417,9 @@ Pour compléter le rendu du PROSIT (CC / Rapport), déposer les trois captures d
 
 ## 12. Membres de l'équipe
 
-- **Étudiant(s) :** `[À compléter : Nom, Prénom, Identifiant]`
-- **Classe / Groupe :** `[À compléter : Ex. 4SIM2 / 3A]`
-- **Dépôt GitHub :** `[À compléter : URL du dépôt GitHub du projet]`
+- **Membres de l'équipe :**
+  - **Louay Saadaoui**
+  - **Adel Haj Salem**
+  - **Elyes Dalhoumi**
+  - **Mohamed Ala Eddin Hedfi**
+- **Dépôt GitHub :** [https://github.com/LouayS16/JobBoard](https://github.com/LouayS16/JobBoard)
